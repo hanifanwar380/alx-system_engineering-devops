@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # print a string 10 times using until loop
+# Author: Hanif Miyanji
 
 i=0
 
