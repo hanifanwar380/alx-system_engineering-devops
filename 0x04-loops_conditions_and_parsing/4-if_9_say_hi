@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # prints a string 10 times using while loop and on the ninth iteration it prints hi
+# Author: Hanif Miyanji
 
 i=1
 
