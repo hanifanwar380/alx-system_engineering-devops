@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # display time for 12 hours and 59 minutes
+# Author: Hanif Miyanji
 
 hour=0
 
